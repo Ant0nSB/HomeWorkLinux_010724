@@ -1,0 +1,22 @@
+ 1000  cat C:\User\pc/.ssh/id_rsa.pub
+ 1001  cd /opt/21052024_mornung
+ 1002  cd /opt/21052024_morning
+ 1003  mkdir homeWork/Anton Schellhorn Blaschewitsch
+ 1004  cat /21052024_morning
+ 1005  mkdir homeWork/Anton Schellhorn-Blaschewitsch
+ 1006  mkdir homeWork/"Anton Schellhorn-Blaschewitsch"
+ 1007  cat /opt/21052024_morning
+ 1008  ls -al
+ 1009  mkdir /opt/21052024_morning/ Anton Schellhorn-Blaschewitsch/homework
+ 1010  mkdir /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"/homework
+ 1011  history
+ 1012  cd /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch
+cd /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+ls -al
+history
+pwd
+
+ 1013  cat /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+ 1014  ls -al /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+ 1015  history
+[ec2-user@ip-172-31-33-20 21052024_morning]$
